@@ -38,7 +38,13 @@ This tool is provided for **educational and ethical testing** purposes only. Do 
 
 ## [`exploit.py`](/exploit.py)
 
-You can build a brute-force script using this snippet:
+#### Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+The included script ([`exploit.py`](/exploit.py)) can be used to brute-force Flask session cookies using this wordlist:
 
 ```python
 from flask.sessions import SecureCookieSessionInterface
