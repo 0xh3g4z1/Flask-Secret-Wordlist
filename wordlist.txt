@@ -1,6 +1,29 @@
 
 secret
 secret!
+secret_key
+secret_key_123
+secretkey!123
+secret_key!
+secret-key!
+secret1234
+flaskkey
+flask-secret-key
+development_key
+development-secret
+secret2024
+secret2025
+secretkey2024
+secretkey2025
+flask2024
+flask2025
+password2025
+password2024
+changeme2024
+changeme2025
+flask123
+flaskapp
+flaskappsecret
 SECRET_KEY
 SECRET_KEY_123
 secret123
@@ -71,4 +94,5 @@ rootpass
 123secret
 adminsecret
 adminsecret123
+
 flasksecuretoken
