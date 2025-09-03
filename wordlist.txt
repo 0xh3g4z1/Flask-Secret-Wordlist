@@ -98,3 +98,4 @@ top_secret
 flasksecuretoken
 keep_it_secret
 itsasecret
+CHANGEME
