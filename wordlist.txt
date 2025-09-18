@@ -99,3 +99,5 @@ flasksecuretoken
 keep_it_secret
 itsasecret
 CHANGEME
+devkey_change_me
+devkey_change_me_123
