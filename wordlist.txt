@@ -103,3 +103,4 @@ devkey_change_me
 devkey_change_me_123
 APP_KEY
 N/A
+CTF_secret_2025
