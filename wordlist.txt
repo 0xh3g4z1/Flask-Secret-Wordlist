@@ -107,3 +107,4 @@ CTF_secret_2025
 secret_key_16b
 secret_key_32b
 secret_key_64b
+dev-secret-key-change-me
